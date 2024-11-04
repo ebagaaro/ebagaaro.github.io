@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ebagaaro.github.io/Dcg/sitemap_index.txt
+Sitemap: https://ebagaaro.github.io/FLZ/sitemap_index.txt
+Sitemap: https://ebagaaro.github.io/UrZ/sitemap_index.txt
+Sitemap: https://ebagaaro.github.io/hNt/sitemap_index.txt
